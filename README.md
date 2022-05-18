@@ -3,7 +3,7 @@
 <img
 src="https://firebasestorage.googleapis.com/v0/b/prince-photos.appspot.com/o/My%20Post.jpg?alt=media&token=4d6fd8c8-c029-4f20-8fce-399990389883"
 alt="" align="center"
-width="604" height="385"
+width="800" height="485"
 />
 
 
