@@ -6,7 +6,7 @@ alt="" align="center"
 width="770" height="495"
 />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princesingh00&label=Profile%20views&color=0e75b6&style=flat" alt="princesingh00" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cap-singh&label=Profile%20views&color=0e75b6&style=flat" alt="princesingh" /> </p>
 
 
 - Software Developer
